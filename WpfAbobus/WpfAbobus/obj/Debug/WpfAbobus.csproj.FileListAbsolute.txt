@@ -1,0 +1,15 @@
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\bin\Debug\WpfAbobus.exe.config
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\bin\Debug\WpfAbobus.exe
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\bin\Debug\WpfAbobus.pdb
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\WpfAbobus.csprojAssemblyReference.cache
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\MainWindow.g.cs
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\App.g.cs
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\WpfAbobus_MarkupCompile.cache
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\WpfAbobus_MarkupCompile.lref
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\MainWindow.baml
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\WpfAbobus.g.resources
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\WpfAbobus.Properties.Resources.resources
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\WpfAbobus.csproj.GenerateResource.cache
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\WpfAbobus.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\WpfAbobus.exe
+C:\Users\JackYellow\Desktop\WpfAbobus\WpfAbobus\obj\Debug\WpfAbobus.pdb

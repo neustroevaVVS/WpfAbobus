@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfAbobus.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAbobus"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="800">
+    <Grid>
+        <TextBox Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="10,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="178" Text="P P P"/>
+        <Label Content="ФИО" HorizontalAlignment="Left" Margin="10,23,0,0" VerticalAlignment="Top"/>
+        <Label Content="Дата рождения" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.411,0.133"/>
+        <TextBox Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="10,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="178" Text="22.12.2020"/>
+        <Label Content="ФИО – должно иметь 2 – 3 слова. Все слова должны начинаться с большой буквы." HorizontalAlignment="Left" Margin="219,49,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ввод в формате даты: ДД.ММ.ГГГГ" HorizontalAlignment="Left" Margin="219,98,0,0" VerticalAlignment="Top"/>
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="316,205,0,0" VerticalAlignment="Top" Width="127" Height="23" Click="Button_Click"/>
+        <Label Content="Если не появляется окно об ошибке, то всё введено правильно" HorizontalAlignment="Left" Margin="10,141,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
